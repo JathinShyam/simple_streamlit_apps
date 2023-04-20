@@ -2,4 +2,4 @@ shap
 matplotlib
 sklearn
 scikit-learn==0.20
-pandas==2.0
+pandas==1.5
